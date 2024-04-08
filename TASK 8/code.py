@@ -64,7 +64,7 @@ def FABRIK(initial_joint_positions, target_position, link_lengths, tolerance=1e-
 # Main code
 if __name__ == "__main__":
     # Define link lengths
-    link_lengths = [23, 15, 7]
+    link_lengths = [23, 15, 4]
 
     # Taking input for initial joint position/angles in degrees
     initial_joint_position = []
