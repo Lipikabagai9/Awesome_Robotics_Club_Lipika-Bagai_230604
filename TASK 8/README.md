@@ -1,6 +1,7 @@
 EXPLANATION OF CODE FOR ROBOTIC ARM
 
 Used FABRIK (Forward and Backward Reaching Inverse Kinematics) ALGORITHM to optimize the movement of a robotic arm .
+The flow of code is as follows:-
 
 1. Importing Numpy library : imported Numpy as np . It is used for numerical computations.
 
